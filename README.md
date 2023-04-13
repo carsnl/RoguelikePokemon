@@ -1,6 +1,6 @@
-# [logo](logo.ico) Roguelike Pokemon
+# [logo](./assets/images/logo.png) Roguelike Pokemon
 
-[logo](logo.ico)
+[logo](./assets/images/logo.png)
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@
 [Preview](#preview)<br>
 [Use Instructions](#use)<br>
 [Additional Information](#info)<br>
-[Licensing](#licensing)<br>
 
 ## About <a name="about">
 
@@ -16,6 +15,35 @@
 #### Features:
 
 ## Preview <a name="preview">
+
+#### Starting game world
+[world](./assets/images/game.png)
+
+#### Find items throughout the world
+[items](./assets/images/items.png)
+
+#### Use items to interact with Pokemon
+[interact](./assets/images/interact.png)
+
+#### Try to catching wild Pokemon
+[](./assets/images/catch.png)
+
+#### Trade with NPCs 
+[trade](./assets/images/trade.png)
+
+#### Discover in-game events
+[event2](./assets/images/events2.png)
+
+[event](./assets/images/events.png)
+
+#### Discover all Pokemons in the world and their evolutions
+[evolution](./assets/images/evolution.png)
+
+#### Engage in combat
+[combat](./assets/images/combat.png)
+
+#### Discover the unique attack sets of each Pokemon
+[special](./assets/images/special.png)
 
 
 ## Use Instructions <a name="use">
@@ -30,9 +58,5 @@
 ## Additional Information <a name="info">
 
 For enquires, contact [laicarson.swe@gmail.com](laicarson.swe@gmail.com).
-
-## Licensing <a name="licensing">
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
