@@ -57,6 +57,10 @@
 
 ## Additional Information <a name="info">
 
+The final application presented in this repository is an adapted version from a university project. Developed in collaboration with Anson Wong Sie Yuan and Mior Shazryl Afiq Mior Saifullizan. Game engine provided by Monash University.
+
+Developed with Java.
+
 For enquires, contact [laicarson.swe@gmail.com](laicarson.swe@gmail.com).
 
 
