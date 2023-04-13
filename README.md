@@ -9,8 +9,7 @@
 
 ## About <a name="about">
 
-
-#### Features:
+Roguelike Pokemon is a console-based video game set in a constantly evolving world. Roam around and discover new Pokemon, Items, and NPCs that appear as the game progresses. Build relationships with wild Pokemon, evolve them, then send your team out to battle in your journey to catch them all!
 
 ## Preview <a name="preview">
 
@@ -48,7 +47,7 @@
 
 #### Download
 
-**IMPORTANT**: Roguelike Pokemon requires the latest versions of Java Runtime Environment (JRE) and Java Developer Kit (JDK) to run.
+**IMPORTANT**: Roguelike Pokemon requires the latest versions of Java Runtime Environment (JRE) and Java Developer Kit (JDK) to run. No IDE or compiler is required.
 
 Follow these steps carefully.
 
@@ -108,12 +107,13 @@ When the game exits, it's game over.
 Hints (Click to expand)
 </summary>
 <br>
-- Try exploring the world and find out what each symbol represents. 
-- Pokemons are represented as letters.
-- Certain Pokemon spawn on specific environments.
-- Offer a wild Pokemon a Pokefruit that matches their type. For example, Bulbausaur loves Grass Pokefruit.
-- To catch a Pokemon, increase the affection points (AP) between you and Pokemon first.
-- Careful, you can be killed by wild Pokemon!
+Try exploring the world and find out what each symbol represents. <br>
+Pokemons are represented as letters. <br>
+Certain Pokemon spawn on specific environments. <br>
+The day and night cycle affects each Pokemon differently. <br>
+Offer a wild Pokemon a Pokefruit that matches their type. For example, Bulbausaur loves Grass Pokefruit. <br>
+To catch a Pokemon, increase the affection points (AP) between you and Pokemon first. <br>
+Careful, you can be killed by wild Pokemon! <br>
 
 </details>
 
