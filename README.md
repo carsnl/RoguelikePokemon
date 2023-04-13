@@ -9,7 +9,7 @@
 
 ## About <a name="about">
 
-Roguelike Pokemon is a console-based video game set in a constantly evolving world. Roam around and discover new Pokemon, Items, and NPCs that appear as the game progresses. Build relationships with wild Pokemon, evolve them, then send your team out to battle in your journey to catch them all!
+As its name suggests, Roguelike Pokemon is a roguelike video game inspired by Pokemon, hosted on the console and set in a constantly evolving world. Roam around and discover new Pokemon, Items, and NPCs that appear as the game progresses. Build relationships with wild Pokemon, evolve them, then send your team out to battle in your journey to catch them all!
 
 ## Preview <a name="preview">
 
