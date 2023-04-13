@@ -1,6 +1,6 @@
-# [logo](./assets/images/logo.png) Roguelike Pokemon
+# ![logo](./assets/images/logo.png) Roguelike Pokemon
 
-[logo](./assets/images/logo.png)
+![logo](./assets/images/logo.png)
 
 ## Table of Contents
 
@@ -17,33 +17,33 @@
 ## Preview <a name="preview">
 
 #### Starting game world
-[world](./assets/images/game.png)
+![world](./assets/images/game.png)
 
 #### Find items throughout the world
-[items](./assets/images/items.png)
+![items](./assets/images/items.png)
 
 #### Use items to interact with Pokemon
-[interact](./assets/images/interact.png)
+![interact](./assets/images/interact.png)
 
 #### Try to catching wild Pokemon
-[](./assets/images/catch.png)
+![catch](./assets/images/catch.png)
 
 #### Trade with NPCs 
-[trade](./assets/images/trade.png)
+![trade](./assets/images/trade.png)
 
 #### Discover in-game events
-[event2](./assets/images/events2.png)
+![event2](./assets/images/events2.png)
 
-[event](./assets/images/events.png)
+![event](./assets/images/events.png)
 
 #### Discover all Pokemons in the world and their evolutions
-[evolution](./assets/images/evolution.png)
+![evolution](./assets/images/evolution.png)
 
 #### Engage in combat
-[combat](./assets/images/combat.png)
+![combat](./assets/images/combat.png)
 
 #### Discover the unique attack sets of each Pokemon
-[special](./assets/images/special.png)
+![special](./assets/images/special.png)
 
 
 ## Use Instructions <a name="use">
