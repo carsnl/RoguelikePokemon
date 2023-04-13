@@ -1,7 +1,5 @@
 # ![logo](./assets/images/logo.png) Roguelike Pokemon
 
-![logo](./assets/images/logo.png)
-
 ## Table of Contents
 
 [About](#about)<br>
@@ -48,12 +46,76 @@
 
 ## Use Instructions <a name="use">
 
-#### Download:
+#### Download
 
+**IMPORTANT**: Roguelike Pokemon requires the latest versions of Java Runtime Environment (JRE) and Java Developer Kit (JDK) to run.
 
-#### Using the application
+Follow these steps carefully.
 
+1. Download the latest version of [JRE](https://www.java.com/en/download/manual.jsp) for your system, and follow the installation instructions.
+2. Download the latest version of [JDK](https://www.oracle.com/my/java/technologies/downloads/) for your system, and follow the installation instructions.
+3. At the top of [this repository page](https://github.com/carsnl/RoguelikePokemon/), click **Code** > **Download ZIP**.
+4. Unzip the downloaded file.
+5. Click the **RoguelikePokemon** executable file after JRE and JDK have been installed to start the game. This launches the system console/terminal.
 
+<details>
+<summary>
+The executable file does not work! (Click to expand)
+</summary>
+<br>
+If the executable file does not run, navigate to: out > artifact > RoguelikePokemon_jar. Open your system console or terminal in this directory, and type "java -jar RoguelikePokemon.jar" (without quotation marks) to launch the game.
+
+If a linkage error is displayed, the latest version of JDK has not been installed in your system.
+</details>
+
+#### Game manual
+
+##### Legend
+
+Characters
+- @: Ash (player)
+- %: Nurse Joy
+
+Pokemons
+- c: Charmander
+- C: Charmelon
+- p: Pikachu
+- b: Bulbasaur
+- s: Squirtle
+- and more!
+
+Items
+- *: Candy
+- f: (Fire/Water/Grass) Pokefruit
+- and more!
+
+Environment
+- O: Crater
+- ^: Lava
+- W: Waterfall
+- T: Tree
+- =: Door (teleports to another map)
+- and more!
+
+Pokemon Special Moves
+- /: Raichu's Thunder Wave
+- v: Charizard's Fire Spin
+
+When the game exits, it's game over.
+
+<details>
+<summary>
+Hints (Click to expand)
+</summary>
+<br>
+- Try exploring the world and find out what each symbol represents. 
+- Pokemons are represented as letters.
+- Certain Pokemon spawn on specific environments.
+- Offer a wild Pokemon a Pokefruit that matches their type. For example, Bulbausaur loves Grass Pokefruit.
+- To catch a Pokemon, increase the affection points (AP) between you and Pokemon first.
+- Careful, you can be killed by wild Pokemon!
+
+</details>
 
 ## Additional Information <a name="info">
 
